@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @artinflh
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java script
+- 🌱 I currently know lots of coding languages.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me www.artin91.ir or faryan_falahati@yahoo.com
+- 📫 How to reach me, no need to reach me.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
